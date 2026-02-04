@@ -1,4 +1,4 @@
-# Fake News Detection Using NLP (TF-IDF) + Machine Learning (SVM / Logistic Regression)
+# 📰 Fake News Detection Using NLP (TF-IDF) + Machine Learning (SVM / Logistic Regression)
 
 A machine learning project that classifies news articles as **FAKE** or **REAL** using **Natural Language Processing (NLP)** and supervised learning models.  
 The pipeline includes text preprocessing, **TF-IDF** feature extraction, model training, and evaluation with standard classification metrics.
